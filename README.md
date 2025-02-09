@@ -8,3 +8,7 @@ For this project, the students will:
 * perform an open-ended Exploratory Data Analysis (EDA) on the enriched data set
 
 Regarding the last bullet, "open-ended" means the student chooses the EDA that is performed. The student should have at least three types of data analysis (e.g., mean, standard deviation) and at least three types of graphs (e.g., historgram, bar graph). The student will explain why those variables were chosen for numerical or graphical analysis. Finally, the student will make note of any unusual values for any variable that is analyzed.
+## Project data submission
+Tableau dashboard url: https://public.tableau.com/app/profile/wanjiru.antony/viz/project2karamoja/Dashboard1?publish=yes
+jupyter notebook on this file : Karamoja 
+presentation file : KARAMOJA PDF
